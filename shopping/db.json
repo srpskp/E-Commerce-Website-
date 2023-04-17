@@ -1,0 +1,100 @@
+{
+  "Products": [
+    {
+      "title1": "Quartz Belt Watch",
+      "price": 150,
+      "details": "If you are looking for something that can make your interior look awesome.",
+      "id": 1,
+      "category1": "Accessories"
+    },
+    {
+      "title1": "Charging Car",
+      "category1": "Kids Toy",
+      "id": 2,
+      "price": 250,
+      "details": "If you are looking for something that can make your interior look awesome."
+    },
+    {
+      "title1": "Quartz Belt Watch",
+      "category1": "Accessories",
+      "id": 3,
+      "price": 150,
+      "details": "If you are looking for something that can make your interior look awesome."
+    },
+    {
+      "title1": "Quartz Belt Watch",
+      "category1": "Accessories",
+      "id": 4,
+      "price": 150,
+      "details": "If you are looking for something that can make your interior look awesome."
+    },
+    {
+      "title1": "Quartz Belt Watch",
+      "category1": "Accessories",
+      "id": 5,
+      "price": 150,
+      "details": "If you are looking for something that can make your interior look awesome."
+    },
+    {
+      "title1": "Charging Car",
+      "category1": "Kids Toy",
+      "id": 6,
+      "price": 150,
+      "details": "If you are looking for something that can make your interior look awesome."
+    },
+    {
+      "title1": "Quartz Belt Watch",
+      "category1": "Accessories",
+      "id": 7,
+      "price": 150,
+      "details": "If you are looking for something that can make your interior look awesome."
+    },
+    {
+      "title1": "Quartz Belt Watch",
+      "category1": "Accessories",
+      "id": 8,
+      "price": 150,
+      "details": "If you are looking for something that can make your interior look awesome."
+    },
+    {
+      "title1": "Charging Car",
+      "category1": "Kids Toy",
+      "id": 9,
+      "price": 150,
+      "details": "If you are looking for something that can make your interior look awesome."
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "email": "admin1@gmail.com",
+      "password": 123
+    },
+    {
+      "id": 2,
+      "email": "admin2@gmail.com",
+      "password": 123
+    },
+    {
+      "id": 3,
+      "email": "admin3@gmail.com",
+      "password": 123
+    }
+  ],
+  "cart": [
+    {
+      "pid": 1,
+      "name": "Quartz Belt Watch",
+      "price": 150,
+      "qnt": 5,
+      "id": 1
+    },
+    {
+      "pid": 2,
+      "name": "Charging Car",
+      "price": 250,
+      "qnt": 1,
+      "id": 2
+    }
+  ]
+}
